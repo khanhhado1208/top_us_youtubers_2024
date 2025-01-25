@@ -55,9 +55,12 @@ This repository contains a comprehensive Power BI dashboard and supporting resou
 - **DAX**: Advanced calculations and measures.
 - **Markdown**: Repository documentation.
 
----
 
-This project showcases my ability to integrate data from SQL Server into Power BI, leveraging advanced DAX calculations and SQL transformations for insightful visualizations. Feel free to contribute or provide feedback!
+This project showcases my ability to integrate data from SQL Server into Power BI, leveraging advanced DAX calculations and SQL transformations for insightful visualizations. 
+
+Kaggle (Dataset):
+
+https://www.kaggle.com/datasets/bhavyadhingra00020/top-100-social-media-influencers-2024-countrywise?resource=download
 
 ## Dashboard Preview
 
