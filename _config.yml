@@ -1,6 +1,14 @@
-title: HÀ
-logo: dashboard.png
-show_downloads: True
+# Site settings
+title: Top U.S. YouTubers 2024
+description: Analysis of the top U.S. YouTubers using Power BI Dashboard
+logo: /dashboard.png
+baseurl: 
+url: "https://khanhhado1208.github.io/top_us_youtubers_2024"
+
+# Theme and plugins
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-- jekyll-remote-theme 
+  - jekyll-remote-theme
+
+# Navigation settings
+show_downloads: true
