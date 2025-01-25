@@ -62,6 +62,12 @@ This project showcases my ability to integrate data from SQL Server into Power B
 
 https://www.kaggle.com/datasets/bhavyadhingra00020/top-100-social-media-influencers-2024-countrywise?resource=download
 
+## Publish Report
+https://app.powerbi.com/groups/me/reports/85ad8bb7-5185-4ba1-8821-4c1e0fae71e5/88b85de04ab0b87e530d?experience=power-bi
+
+## Demo web
+https://khanhhado1208.github.io/top_us_youtubers_2024/
+
 ## Dashboard Preview
 
 
