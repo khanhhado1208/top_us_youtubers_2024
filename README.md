@@ -58,15 +58,14 @@ This repository contains a comprehensive Power BI dashboard and supporting resou
 
 This project showcases my ability to integrate data from SQL Server into Power BI, leveraging advanced DAX calculations and SQL transformations for insightful visualizations. 
 
-Kaggle (Dataset):
+## Kaggle (Dataset):
 
 https://www.kaggle.com/datasets/bhavyadhingra00020/top-100-social-media-influencers-2024-countrywise?resource=download
 
 ## Dashboard Preview
 
 
-
----![dashboard](https://github.com/user-attachments/assets/ceb149a4-0f67-4a8d-ba54-3af2da0843c7)
+![dashboard](https://github.com/user-attachments/assets/ceb149a4-0f67-4a8d-ba54-3af2da0843c7)
 
 
 
