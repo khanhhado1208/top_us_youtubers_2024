@@ -1,6 +1,6 @@
 # Top U.S. YouTubers 2024 Analysis - Power BI Dashboard
 
-This repository contains a comprehensive Power BI dashboard and supporting resources for analyzing the performance of top U.S. YouTube channels in 2024. The dashboard visualizes key metrics like total views, total subscribers, average views per subscriber, and subscriber engagement rate, providing valuable insights into channel performance.
+This repository contains a comprehensive Power BI dashboard and supporting resources for analyzing the performance of top U.S. YouTube channels in 2024. The dashboard visualizes key metrics like total views, total subscribers, and subscriber engagement rate, providing valuable insights into channel performance.
 
 ## Key Features
 
@@ -66,7 +66,7 @@ https://www.kaggle.com/datasets/bhavyadhingra00020/top-100-social-media-influenc
 https://app.powerbi.com/groups/me/reports/85ad8bb7-5185-4ba1-8821-4c1e0fae71e5/88b85de04ab0b87e530d?experience=power-bi
 
 ## Demo web
-https://khanhhado1208.github.io/top_us_youtubers_2024/
+[https://khanhhado1208.github.io/top_us_youtubers_2024/](https://youtu.be/uVtytVN5Q6Q)
 
 ## Dashboard Preview
 
